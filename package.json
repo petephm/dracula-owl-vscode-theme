@@ -1,0 +1,22 @@
+{
+    "name": "dracula-owl",
+    "displayName": "Dracula Owl",
+    "description": "A VS Code theme based on Dracula and Night Owl.",
+    "version": "0.0.1",
+    "publisher": "peterph-am",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dracula Owl",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dracula Owl-color-theme.json"
+            }
+        ]
+    }
+}
